@@ -5,12 +5,7 @@ m = 3, n = 4.
 1 -3,3 8 -9,9
 8 7,8 -7,1 9*/
 
-/*
-1. Задать двумерный массив;
-2. 
-*/
-
-int[,] GetArray( int m, int n, int minValue, int maxValue)
+int[,] GetArray( int m, int n, int minValue, int maxValue) // Генерация двумерного массива
 {
     int[,] result = new int[m, n];
     for (int i = 0; i < m; i++)
@@ -23,7 +18,7 @@ int[,] GetArray( int m, int n, int minValue, int maxValue)
     return result;
 }
 
-void PrintArray(int[,] inArray)
+void PrintArray(int[,] inArray) // Вывод массива на консоль
 {
     for (int i = 0; i < inArray.GetLength(0); i++)
     {
@@ -35,7 +30,7 @@ void PrintArray(int[,] inArray)
     }
 }
 
-void Main()
+void Main() // Административная функция
 {
 Console.Clear();
 int[,] OurArray = GetArray(3, 4, -10, 10);
