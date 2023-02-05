@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/DvumerArray/bin/Debug/net7.0/DvumerArray
+/home/sneg/Documents/C#/DvumerArray/bin/Debug/net7.0/DvumerArray.deps.json
+/home/sneg/Documents/C#/DvumerArray/bin/Debug/net7.0/DvumerArray.runtimeconfig.json
+/home/sneg/Documents/C#/DvumerArray/bin/Debug/net7.0/DvumerArray.dll
+/home/sneg/Documents/C#/DvumerArray/bin/Debug/net7.0/DvumerArray.pdb
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.AssemblyInfo.cs
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.dll
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/refint/DvumerArray.dll
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.pdb
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/DvumerArray.genruntimeconfig.cache
+/home/sneg/Documents/C#/DvumerArray/obj/Debug/net7.0/ref/DvumerArray.dll
